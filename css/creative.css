@@ -7005,6 +7005,11 @@ button.bg-dark:focus {
   background-color: transparent !important;
 }
 
+.bg-tertiary {
+  background-color: #6f42c1; !important;
+}
+
+
 .border {
   border: 1px solid #dee2e6 !important;
 }
@@ -7050,7 +7055,7 @@ button.bg-dark:focus {
 }
 
 .border-secondary {
-  border-color: #6c757d !important;
+  border-color: #6f42c1 !important;
 }
 
 .border-success {
